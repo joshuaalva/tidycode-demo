@@ -115,6 +115,10 @@
 //     });
   
 //   });
+
+// <--- beginning of loops and debugging --> 
+
+
   
   
 
