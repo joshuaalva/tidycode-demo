@@ -116,9 +116,7 @@
   
 //   });
 
-// <--- beginning of loops and debugging --> 
 
-// example of loops
 
 
   
