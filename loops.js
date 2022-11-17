@@ -24,6 +24,7 @@
 // indebugger red dot on the left side is called a break point
 
 // do while loop checks in the end instead of teh beginning
+// not really neccesary 
 
 let result = '';
 let index = 0;
@@ -34,3 +35,16 @@ do {
 } while (index < 5);
 
 console.log(result);
+
+// cstyle for loops 
+// for ([initialExpression]; [conditionExpression; [incrementExpression]])
+//statement 
+
+{
+let str = ''
+for (let i = 0; i < 10; i++) {
+    str = str + i;
+}
+console.log(str);
+
+}
