@@ -51,14 +51,26 @@
 
 // continue statement
 
-let text = ``;
+// let text = ``;
 
-for(let index = 0; index < 10; index++) {
-    if (index === 3) {
-        continue;
+// for(let index = 0; index < 10; index++) {
+//     if (index === 3) {
+//         continue;
+//     }
+
+//     text = text + index;
+// }
+
+// console.log(text);
+
+// bonus loop: recursion 
+// recursion: looping data 
+
+function counter (number) {
+    console.log(number);
+    if(number < 10){
+    counter(number + 1);
     }
-
-    text = text + index;
 }
 
-console.log(text);
+counter(0);
