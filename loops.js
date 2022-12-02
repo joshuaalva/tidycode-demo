@@ -240,5 +240,7 @@ function exponentiate(base, power){
     });
   
   });
+
+  // 04 exponentiate using a while loop
   
   
