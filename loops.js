@@ -314,6 +314,9 @@ function mySlice(originalString, startIdx, endIdx) {
 
 // 06 my index of
 
+function (source, searchValye, startIdx){
+  
+}
 
 describe('myIndexOf', () => {
 
