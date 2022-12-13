@@ -480,6 +480,6 @@ function mostVowels(sentence) {
   
   });
 
-// memo lesson off vscode... bigger commits coming.
+// onto next lesson will come back and review
   
   
